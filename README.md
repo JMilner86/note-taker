@@ -11,5 +11,6 @@
 
 
 
-* Deployed URL: 
+* Deployed URL: https://jmilner86.github.io/note-taker/
 * Heroku URL: https://desolate-headland-62981.herokuapp.com/
+* GITHUB URL: https://github.com/JMilner86/note-taker
